@@ -1,7 +1,7 @@
 /**/
 
 html,body {
-  background: skyblue;
+  background: gold;
   height: 100%;
 }
 
@@ -20,5 +20,5 @@ html,body {
 
 #btn::after {
   content: "▶";
-  color: red;
+  color: lightsteelblue;
 }
